@@ -7,8 +7,9 @@ Python is my current favourite language to use as I having the most fun with it.
 
 Web Development | Frontend & Backend Development
 
-## Tools 
-![python-logo](python-logo.jpg)
+## Languages & Tools 
+<img src="vs-code-logo.png" style="height: 40px"> <img src="html-logo.png" style="height: 40px"> <img src="js-logo.png" style="height: 40px"> <img src="css-logo.png" style="height: 40px"> <img src="python-logo.png" style="height: 40px">
+
 
 <!--
 **Djzngo/djzngo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
