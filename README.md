@@ -1,7 +1,14 @@
 # Hello everyone, and welcome. 🫶
 
 My name is Chris, and I am currently studying Web Development hoping to one day have a career in this field. I currently have an interest in everything to do with coding, and always looking for something to learn.
-Python 
+Python is my current favourite language to use as I having the most fun with it.
+
+## Skills
+
+Web Development | Frontend & Backend Development
+
+## Tools 
+[python-logo](python-logo.jpg)
 
 <!--
 **Djzngo/djzngo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
