@@ -13,6 +13,8 @@ These are some of the currently languages, tools, and frameworks I know, and usi
 <img src="html-logo.png" style="height: 40px"> <img src="js-logo.png" style="height: 40px"> <img src="css-logo.png" style="height: 40px"> <img src="python-logo.png" style="height: 40px"> 
 <br>
 <img src="vs-code-logo.png" style="height: 40px"> <img src="postgresql-logo.png" style="height: 40px"> <img src="bootstrap-logo.png" style="height: 40px"> <img src="django-logo.png" style="height: 40px">
+<br>
+<img src="jest-logo.png" style="height: 40px">
 
 ## Goals & Projects
 
